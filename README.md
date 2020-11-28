@@ -4,7 +4,7 @@ I'm Winfred Pantig, you can call me Wayne (everyone does). I'm a Freelance devel
 ## Need Help?
 Want a customised website?
 
-Got a great idea and to see it in action?
+Got a great idea and want to see it in action?
 
 Having trouble with your code?
 
