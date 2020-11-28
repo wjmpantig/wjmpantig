@@ -1,16 +1,16 @@
 # 👋 Hello there! 
 I'm Winfred Pantig, you can call me Wayne (everyone does). I'm a Freelance developer.
 
-## Need Help?
-Want a customised website?
+## 🆘 Need Help?
+✨ Want a customised website?
 
-Got a great idea and want to see it in action?
+💡 Got a great idea and want to see it in action?
 
-Having trouble with your code?
+😢 Having trouble with your code?
 
-Just message me at hello@winf.red 😀
-## Skills
-Here are the technologies/concepts that I'm experienced with
+📩 Just message me at hello@winf.red 😀
+## ⛏ Skills
+Here are some technologies/concepts that I'm experienced with
 
 I didn't list all of them as I might have some secret skills. Just ask me 😉
 ### Front-End
